@@ -19,8 +19,6 @@
 
 - 🤝 I’m looking for help with **React JS**
 
-- 👨‍💻 All of my projects are available at [https://shreeya-portfolio-site.netlify.app/](https://sujal-portfolio-site.netlify.app/)
-
 - 💬 Ask me about **Android , full-stack**
 
 - 📫 How to reach me **shreeyanemade9@gmail.com**
